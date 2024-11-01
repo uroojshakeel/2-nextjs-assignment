@@ -1,0 +1,15 @@
+header{
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+  /* background-color:; */
+  /* background-color: aqua; */
+  color: aliceblue;
+  /* background-color: rgb(171, 208, 196) */
+}
+div {height: 100vh;
+  background-color: rgb(205, 228, 244);
+}
+footer{
+  background-color:"lightcyan";
+}
